@@ -2,6 +2,6 @@
 
 ## [RU]
 Игровой бот для Discord. В строке "TOKEN" вставьте свой токен
-[EN]
+##[EN]
 Game bot for Discord. In the line "TOKEN" insert your token
 
